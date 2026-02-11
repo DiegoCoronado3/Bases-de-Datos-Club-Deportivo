@@ -46,7 +46,7 @@ El sistema incluye procedimientos almacenados para generar informes ejecutivos:
 
 ## 📂 Documentación
 
-Puedes encontrar la documentación completa del proyecto, incluyendo el diagrama relacional y el diccionario de datos, en la carpeta `/docs`.
+Puedes encontrar la documentación completa del proyecto en la carpeta `/docs`.
 
 ---
-*Autor: Equipo Club Deportivo | Proyecto Académico/Portafolio 2025*
+*Autor: Diego Coronado Perez | Proyecto Académico/*
